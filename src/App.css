@@ -1,10 +1,118 @@
 .App {
   text-align: center;
+  font-size: 16px;
+}
+
+.pointer-contact {
+  cursor: pointer;
+}
+
+.list {
+  text-align: left;
+  /* max-width: 750px; */
+  margin: auto;
+}
+
+.add-contact-action {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  /* padding: 20px */
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  /* font-size: 16px; */
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.sizes {
+  font-size: 8px !important;
+}
+
+.add-contact {background-color: #4CAF50;} /* Green */
+.edit-contact {background-color: #008CBA;} /* Blue */
+.remove-contact {background-color: #f44336;} /* Red */
+
+.image-contact {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  padding: 20px
+}
+
+.link-add {
+  text-decoration: none !important;
+  color: white;
+}
+
+.content-action {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin: 11px;
+}
+
+.badge {
+  display: inline-block;
+  padding: .35em .65em;
+  font-size: .75em;
+  font-weight: 700;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: .25rem;
+}
+
+.content-photo {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.emptyPhoto {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  padding: 20px;
+  border: 1px solid white;
+  background-color: darkgrey;
+}
+
+.submit-form {
+  max-width: 600px;
+  margin: auto;
+}
+
+.edit-form {
+  max-width: 300px;
+  margin: auto;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.previewImage {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  padding: 10px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
