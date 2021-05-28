@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simple-crud-btpn/static/css/main.887bf2d3.chunk.css",
+    "main.js": "/simple-crud-btpn/static/js/main.2b3fc413.chunk.js",
+    "main.js.map": "/simple-crud-btpn/static/js/main.2b3fc413.chunk.js.map",
+    "runtime-main.js": "/simple-crud-btpn/static/js/runtime-main.a371d4b9.js",
+    "runtime-main.js.map": "/simple-crud-btpn/static/js/runtime-main.a371d4b9.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/simple-crud-btpn/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.f81b335b.chunk.js": "/simple-crud-btpn/static/js/2.f81b335b.chunk.js",
+    "static/js/2.f81b335b.chunk.js.map": "/simple-crud-btpn/static/js/2.f81b335b.chunk.js.map",
+    "index.html": "/simple-crud-btpn/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/simple-crud-btpn/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.887bf2d3.chunk.css.map": "/simple-crud-btpn/static/css/main.887bf2d3.chunk.css.map",
+    "static/js/2.f81b335b.chunk.js.LICENSE.txt": "/simple-crud-btpn/static/js/2.f81b335b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a371d4b9.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.f81b335b.chunk.js",
+    "static/css/main.887bf2d3.chunk.css",
+    "static/js/main.2b3fc413.chunk.js"
+  ]
+}
